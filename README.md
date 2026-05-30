@@ -14,7 +14,7 @@
 むらいっちゃんオリジナル（白）<br>
 <img src="materials/1_muraichi.png">
 </td><td>
-ろろさん着色カラー（綺麗）<br>
+ろろさん着色カラー<br>
 <img src="materials/2_rorosan.png">
 </td></tr></table>
 
